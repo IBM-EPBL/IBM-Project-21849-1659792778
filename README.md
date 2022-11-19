@@ -2,8 +2,11 @@
 
 ## Project Title: Real-Time Communication System Powered by AI for Specially Abled
 
+# HUMAN - AI INTERACTION
+
 ### Team ID: PNT2022TMID22298
 -----------------------------------------------------------------------
+
 Team Leader : Girishun Kumar R
 
 Team Member : Kishore M
@@ -44,5 +47,5 @@ College : Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College
 ### Feedback:
 If you have any feedback, please reach out to us at girishunkumarnov21@gmail.com
 
-----------------------------------------------------------------------------
-# Thank You
+----------------------------------------------------------------------
+### Thank You
