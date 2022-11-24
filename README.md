@@ -44,7 +44,7 @@ College : Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College
 ![download](https://user-images.githubusercontent.com/102667614/200394275-ec2ae5dc-40bb-47d8-bbdf-dcb4e209fafc.png)
 ---------------------------------------------------------------------------
 
-### The result of our project is upload in below in link
+### The result of our project is uploaded in below in link
 
 https://drive.google.com/file/d/1390RV9-duu075ZPL_KoUVQKgoWBnFA6r/view?usp=drivesdk
 
